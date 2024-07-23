@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhdeep Singh</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on **Ecommerce web App**
+- 🔭 I’m currently working on **Job Portal App**
 
 - 🌱 I’m currently learning **React Js(Frontend Dev)**
 
